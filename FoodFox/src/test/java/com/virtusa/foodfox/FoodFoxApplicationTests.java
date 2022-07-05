@@ -1,0 +1,13 @@
+package com.virtusa.foodfox;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FoodFoxApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
